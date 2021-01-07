@@ -4,7 +4,7 @@
 
 
 ## Technologies Used:-
- * Platform:- ASP.NET
+ * Platform:- Windows Form
  * Language:- C#
  * Back-end:- Microsoft SQL Server
 
