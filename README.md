@@ -1,7 +1,8 @@
 # Dream Destiny
 
 ## Description
-
+**Dream Destiny** is an online platform where real estate trade is taking place in a much faster and newer manner. We not just help you with finding the ideal real estate, but also ensure that your buying journey is as smooth as it can be. We understand that while buying a property, there are a lot of factors to be taken into consideration, like the locality, preferred area, budget, amenities, and a lot more. 
+**Dream Destiny** is the destination where you will end up finding the best suitable property available across India. Whether you are planning to build your dream abode, you can find anything and everything in real estate at our portal. We offer residential and commercial property listings for sale across the country.  A wide variety of listing that is advertised here gives you an excellent overview of all property available in the area you are considering. 
 
 ## Technologies Used:-
  * Platform:- Windows Form
