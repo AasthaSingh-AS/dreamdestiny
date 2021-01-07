@@ -19,10 +19,11 @@
 4. Build the Project and start from home page.
 5. Create your Account and fill details and get signup.
 6. Update your Profile.
-7. Now add flashcards to your dashboards.
-8. Make collections of flashcards as a group for studying and important notes.
-9. Share your work (flashcards) with your friends and classmates.
-10. If you have a habit of forgeting to take important stuffs along with you, no problem this is the solution just ask your friend's mobile or laptop and access your account from anywhere at any time just by logging into your account with any device.
+7. Now add property to your dashboards or search property for buying purpose.
+8. For buying property, fill up the form and the property will get booked on your name. It will be removed from the search list as soon as you buy it fully with paper works.
+9. As seller you can add property too from the same dashboard.
+10. You can view your propertylist from the dashboard too.
+11. In same dashboard you can behave as a seller and buyer too.
 
 THAT'S IT!
-YOU CAN SEE HOW USEFUL THIS APPLICATION IS TO EVERYONE WHETHER YOU BELONG TO ANY AGE GROUP.
+YOU CAN SEE HOW USEFUL THIS APPLICATION IS TO THE PEOPLE WHO REALLY WANT TO BUY/SELL PROPERTY BUT COULDN'T DO JUST BECAUSE OF NOT GOOD ARRANGEMENT AND HELP.
