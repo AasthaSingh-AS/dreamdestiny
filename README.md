@@ -15,7 +15,7 @@
 ## Usage:-
 1. Download the Project.
 2. Run database file.
-3. Change connection String..
+3. Change connection String.
 4. Build the Project and start from home page.
 5. Create your Account and fill details and get signup.
 6. Update your Profile.
