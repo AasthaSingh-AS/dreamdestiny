@@ -4,16 +4,16 @@
 **Dream Destiny** _is an online platform where real estate trade is taking place in a much faster and newer manner. We not just help you with finding the ideal real estate, but also ensure that your buying journey is as smooth as it can be. We understand that while buying a property, there are a lot of factors to be taken into consideration, like the locality, preferred area, budget, amenities, and a lot more. 
 **Dream Destiny** is the destination where you will end up finding the best suitable property available across India. Whether you are planning to build your dream abode, you can find anything and everything in real estate at our portal. We offer residential and commercial property listings for sale across the country. A wide variety of listing that is advertised here gives you an excellent overview of all property available in the area you are considering._
 
-## Technologies Used:-
+## Technologies Used
  * Platform:- Windows Form
  * Language:- C#
  * Back-end:- Microsoft SQL Server
 
-## Tools Requirement:-
+## Tools Requirement
  * To view the code:- Visual Studio 2019
  * Database:- MsSQL and SSMS(SQL Server Management Studio)
 
-## Usage:-
+## Steps To Execute(Usage)
 1. Download the Project.
 2. Run database file.
 3. Change connection String.
